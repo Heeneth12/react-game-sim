@@ -10,9 +10,6 @@ function GamePlayer() {
 
       <div className="flex flex-col md:flex-row flex-1 overflow-hidden">
         {/* Left Advertisement */}
-        <div className="flex-shrink-0 md:w-1/8 bg-gray-200 sm:w-16   rounded-lg font-bold">
-          Left Advertisement
-        </div>
 
         {/* Game iframe */}
         <div className="flex-grow mt-12 md:mt-0 flex justify-center items-center">
@@ -26,9 +23,6 @@ function GamePlayer() {
         </div>
 
         {/* Right Advertisement */}
-        <div className="flex-shrink-0 md:w-1/8 bg-gray-200 sm:w-16   rounded-lg font-bold">
-          Right Advertisement
-        </div>
       </div>
     </div>
   );

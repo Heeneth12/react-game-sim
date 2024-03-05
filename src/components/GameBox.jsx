@@ -107,45 +107,6 @@ function GameBox() {
       Display:
         "https://images.crazygames.com/tilo/20200818141523/tilo-cover?auto=format%2Ccompress&q=65&cs=strip&ch=DPR&fit=crop",
     },
-    {
-      H1: "CN",
-      details: "7k ❤️",
-      description: "Rs: 50",
-      Link: "https://dinoswords.gg/",
-      Display:
-        "https://cn.i.cdn.ti-platform.com/content/92/roblox-game-on/link/za/cn_emea_roblox_gameon_banners_1920x1080_01.32c094ee.jpg",
-    },
-    {
-      H1: "Space War",
-      details: "60 ❤️",
-      description: "Rs: 47",
-      Link: "https://cdn.htmlgames.com/FillTheMaze/index.html",
-      Display: "https://cdn.mos.cms.futurecdn.net/GTvQDMxXZ89cgMShEMETGg.jpg",
-    },
-    {
-      H1: "Super Mario",
-      details: "21 ❤️",
-      description: "testing page",
-      Link: "https://cdn.htmlgames.com/QueenOfEgyptCleopatrasJewels/index.html",
-      Display:
-        "https://cdn.mos.cms.futurecdn.net/mNHbzG95DFa9Wxzj6QBnXF-1200-80.jpg",
-    },
-    {
-      H1: "Chees",
-      details: "2 ❤️",
-      description: "testing page",
-      Link: "https://cdn.htmlgames.com/Mahjong3DConnect/index.html",
-      Display:
-        "https://play-lh.googleusercontent.com/COcL9LhQaI8nOdKbqGq0jzsU6eX_oCEd5bnSyK5-YL338_lO5TEHUlmALF36pZ3w8A=w526-h296-rw",
-    },
-    {
-      H1: "Chees",
-      details: "2 ❤️",
-      description: "testing page",
-      Link: "https://games.crazygames.com/en_US/kirka-io/index.html",
-      Display:
-        "https://play-lh.googleusercontent.com/COcL9LhQaI8nOdKbqGq0jzsU6eX_oCEd5bnSyK5-YL338_lO5TEHUlmALF36pZ3w8A=w526-h296-rw",
-    },
   ];
 
   const { setSelectedGame } = useGameContext();

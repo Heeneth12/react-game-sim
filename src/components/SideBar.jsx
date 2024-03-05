@@ -74,7 +74,7 @@ const SideBar = () => {
         <ul>
           <li className="py-1 ">
             <a
-              href="#"
+              href="/"
               className="flex text-gray-500 items-center hover:ml-2 hover:text-white  p-1 font-bold text-sm rounded-lg"
             >
               <svg
@@ -97,7 +97,7 @@ const SideBar = () => {
           </li>
           <li className="py-1">
             <a
-              href="#"
+              href="/"
               className="flex text-gray-500 items-center hover:ml-2 hover:text-white  p-1 font-bold text-sm rounded-lg"
             >
               <svg
@@ -120,7 +120,7 @@ const SideBar = () => {
           </li>
           <li className="py-1">
             <a
-              href="#"
+              href="/"
               className="flex text-gray-500 items-center hover:ml-2 hover:text-white  p-1 font-bold text-sm rounded-lg"
             >
               <svg
@@ -143,7 +143,7 @@ const SideBar = () => {
           </li>
           <li className="py-1">
             <a
-              href="#"
+              href="/"
               className="flex text-gray-500 items-center hover:ml-2 hover:text-white  p-1 font-bold text-sm rounded-lg"
             >
               <svg
@@ -164,7 +164,7 @@ const SideBar = () => {
           </li>
           <li className="py-1">
             <a
-              href="#"
+              href="/"
               className="flex text-gray-500 items-center hover:ml-2 hover:text-white  p-1 font-bold text-sm rounded-lg"
             >
               {/* Home Icon */}
@@ -187,7 +187,7 @@ const SideBar = () => {
           </li>
           <li className="py-1">
             <a
-              href="#"
+              href="/"
               className="flex text-gray-500 items-center hover:ml-2 hover:text-white  p-1 font-bold text-sm rounded-lg"
             >
               <svg
@@ -209,7 +209,7 @@ const SideBar = () => {
           </li>
           <li className="py-1">
             <a
-              href="#"
+              href="/"
               className="flex text-gray-500 items-center hover:ml-2 hover:text-white  p-1 font-bold text-sm rounded-lg"
             >
               <svg
@@ -232,7 +232,7 @@ const SideBar = () => {
           </li>
           <li className="py-1">
             <a
-              href="#"
+              href="/"
               className="flex text-gray-500 items-center hover:ml-2 hover:text-white  p-1 font-bold text-sm rounded-lg"
             >
               {/* Home Icon */}
@@ -256,7 +256,7 @@ const SideBar = () => {
           </li>
           <li className="py-1">
             <a
-              href="#"
+              href="/"
               className="flex text-gray-500 items-center hover:ml-2 hover:text-white  p-1 font-bold text-sm rounded-lg"
             >
               <svg
@@ -280,7 +280,7 @@ const SideBar = () => {
           <div className="mt-12">
             <li className="py-1">
               <a
-                href="#"
+                href="/"
                 className="flex text-gray-500 items-center hover:ml-2 hover:text-white  p-1 font-bold text-sm rounded-lg"
               >
                 <svg
@@ -302,7 +302,7 @@ const SideBar = () => {
             </li>
             <li className="py-1">
               <a
-                href="#"
+                href="/"
                 className="flex text-gray-500 items-center hover:ml-2 hover:text-white  p-1 font-bold text-sm rounded-lg"
               >
                 <svg
